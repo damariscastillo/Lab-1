@@ -5,3 +5,10 @@ C:\Users\damar\source\repos\Lab03-Actividad1-Damaris Pinzon\Lab03-Actividad1-Dam
 C:\Users\damar\source\repos\Lab03-Actividad1-Damaris Pinzon\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.csproj.CoreCompileInputs.cache
 C:\Users\damar\source\repos\Lab03-Actividad1-Damaris Pinzon\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.exe
 C:\Users\damar\source\repos\Lab03-Actividad1-Damaris Pinzon\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\bin\Debug\Lab03-Actividad1-Damaris Pinzon.exe.config
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\bin\Debug\Lab03-Actividad1-Damaris Pinzon.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\bin\Debug\Lab03-Actividad1-Damaris Pinzon.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 3\Lab03-Actividad1-Damaris Pinzon\obj\Debug\Lab03-Actividad1-Damaris Pinzon.pdb

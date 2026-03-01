@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 6\\L6_PINZON CASTILLO DAMARIS_1188926\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A54833-278C-44FC-9CA1-30E598E0F014}|L6_PINZON CASTILLO DAMARIS_1188926\\L6_PINZON CASTILLO DAMARIS_1188926.csproj|c:\\users\\damar\\onedrive\\documentos\\github\\lab-1\\damaris\\lab 6\\l6_pinzon castillo damaris_1188926\\l6_pinzon castillo damaris_1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A54833-278C-44FC-9CA1-30E598E0F014}|L6_PINZON CASTILLO DAMARIS_1188926\\L6_PINZON CASTILLO DAMARIS_1188926.csproj|solutionrelative:l6_pinzon castillo damaris_1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 6\\L6_PINZON CASTILLO DAMARIS_1188926\\L6_PINZON CASTILLO DAMARIS_1188926\\Program.cs",
+              "RelativeDocumentMoniker": "L6_PINZON CASTILLO DAMARIS_1188926\\Program.cs",
+              "ToolTip": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 6\\L6_PINZON CASTILLO DAMARIS_1188926\\L6_PINZON CASTILLO DAMARIS_1188926\\Program.cs",
+              "RelativeToolTip": "L6_PINZON CASTILLO DAMARIS_1188926\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:28:30.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

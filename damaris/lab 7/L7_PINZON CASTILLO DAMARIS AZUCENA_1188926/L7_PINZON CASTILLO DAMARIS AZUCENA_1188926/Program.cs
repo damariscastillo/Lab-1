@@ -68,6 +68,7 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
             int num, primero = 0, segundo = 1;
             Console.WriteLine("Ingrese un numero entero");
             num = int.Parse(Console.ReadLine());
+            Console.WriteLine();
             for (int I = 1; I <= num; I++)
             {
                 Console.Write(primero + (I < num ? " - " : ""));

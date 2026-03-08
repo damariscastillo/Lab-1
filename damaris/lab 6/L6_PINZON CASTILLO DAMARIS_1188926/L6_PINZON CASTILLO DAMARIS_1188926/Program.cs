@@ -59,9 +59,6 @@ namespace L6_PINZON_CASTILLO_DAMARIS_1188926
             Console.WriteLine();
             Console.WriteLine("Ingrese cantidad de unidades compradas: ");
             int cantidad= int.Parse(Console.ReadLine());
-           
-            Console.WriteLine("1. Regular");
-            Console.WriteLine("2. VIP");
             Console.WriteLine();
             Console.Write("Ingresar una opcion (1 o 2): ");
             int cliente = int.Parse(Console.ReadLine());

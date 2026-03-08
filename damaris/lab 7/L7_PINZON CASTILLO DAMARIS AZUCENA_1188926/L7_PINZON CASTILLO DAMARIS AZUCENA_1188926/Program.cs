@@ -15,8 +15,7 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
             string nombre = "Damaris Azucena Pinzón Castillo";
             int carnet = 1188926;
             int indice = 1;
-            Console.WriteLine("Nombre: " + nombre + " Carnet: " + carnet.ToString());
-            // Mientras indice sea menor o igual a 20 
+            Console.WriteLine("Nombre: " + nombre + " Carnet: " + carnet.ToString()); 
             while (indice <= 20)
             {
                 //Repetir las siguentes instrucciones:
@@ -72,8 +71,6 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
             for (int I = 1; I <= num; I++)
             {
                 Console.Write(primero + (I < num ? " - " : ""));
-
-                // 4. Lógica de suma y cambio (5 pts)
                 int suma = primero + segundo;
                 primero = segundo;
                 segundo = suma;

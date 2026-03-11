@@ -32,7 +32,7 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
                 indice = indice + 1;
             }
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Programa terminado, presione cualquier tecla para salir");
+            Console.WriteLine("Programa terminado, presione enter para salir");
             Console.ReadLine();
             Console.WriteLine();
 
@@ -59,7 +59,7 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
                 }
                 divisor++;
             } while (divisor <= enteropositivo);
-            Console.WriteLine("Programa terminado, presione cualquier tecla para salir");
+            Console.WriteLine("Programa terminado, presione enter para salir");
             Console.ReadLine();
             Console.WriteLine();
 
@@ -77,7 +77,7 @@ namespace L7_PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
                 segundo = suma;
             }
             Console.WriteLine();
-            Console.WriteLine("Programa terminado, presione cualquier tecla para salir");
+            Console.WriteLine("Programa terminado, presione enter para salir");
             Console.ReadLine();
 
             //EJERCICIO 04 LIBRE tablas de multiplicar

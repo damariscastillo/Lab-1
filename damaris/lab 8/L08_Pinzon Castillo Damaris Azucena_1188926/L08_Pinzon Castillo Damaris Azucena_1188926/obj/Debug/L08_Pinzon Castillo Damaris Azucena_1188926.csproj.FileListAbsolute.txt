@@ -1,0 +1,7 @@
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\bin\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.exe.config
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\bin\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\bin\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\obj\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\obj\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\obj\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 8\L08_Pinzon Castillo Damaris Azucena_1188926\L08_Pinzon Castillo Damaris Azucena_1188926\obj\Debug\L08_Pinzon Castillo Damaris Azucena_1188926.pdb

@@ -1,0 +1,7 @@
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\bin\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.exe.config
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\bin\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\bin\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\obj\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\obj\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\obj\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\damaris\lab 9\L9_DamarisAzucenaPinzonCastillo_1188926\L9_DamarisAzucenaPinzonCastillo_1188926\obj\Debug\L9_DamarisAzucenaPinzonCastillo_1188926.pdb

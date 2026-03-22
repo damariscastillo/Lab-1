@@ -65,8 +65,8 @@ namespace L9_DamarisAzucenaPinzonCastillo_1188926
                 Console.WriteLine("- MENÚ DE VIDEOJUEGO -");
                 Console.WriteLine("1. Recibir Daño (-5 pts)");
                 Console.WriteLine("2. Curar (+3 pts)");
-                Console.WriteLine("3. Mostrar Estado de Salud (Color)");
-                Console.WriteLine("4. Calificar Desempeño (Finalizar)");
+                Console.WriteLine("3. Mostrar Estado de Salud");
+                Console.WriteLine("4. Calificar Desempeño");
                 Console.WriteLine("5. Salir");
                 Console.Write("Seleccione una opción: ");
                 string opcion = Console.ReadLine();
@@ -135,18 +135,28 @@ namespace L9_DamarisAzucenaPinzonCastillo_1188926
             static void recibirDaño(ref int salud)
             {
                 salud -= 5;
-                if (salud < 0)
-                {
-                    salud = 0;
-                }
+            if (salud < 0)
+            {
+                salud = 0;
+                Console.WriteLine("¡Tu salud ha llegado a 0!");
+            }
             }
             static void curar(ref int salud)
+            {
+            if (salud >= 15)
+            {
+                Console.WriteLine("¡ADVERTENCIA: Tu salud ya está al máximo (15 pts)!");
+                salud = 15;
+            }
+            else
             {
                 salud += 3;
                 if (salud > 15)
                 {
                     salud = 15;
+                    Console.WriteLine("Salud restaurada al máximo.");
                 }
+            }
             }
             static void mostrarSalud(int salud)
             {
@@ -176,7 +186,6 @@ namespace L9_DamarisAzucenaPinzonCastillo_1188926
                 else if (salud >= 11) calificacion = "A";
                 else if (salud >= 6) calificacion = "B";
                 else if (salud >= 1) calificacion = "C";
-                else calificacion = "F (Game Over)";
                 Console.WriteLine();
                 Console.WriteLine("La calificacion final es de: " + calificacion);
             }

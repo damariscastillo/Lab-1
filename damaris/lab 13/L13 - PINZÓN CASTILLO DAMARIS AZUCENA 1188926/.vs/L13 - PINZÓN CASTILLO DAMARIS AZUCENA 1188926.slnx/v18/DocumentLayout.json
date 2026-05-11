@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|solutionrelative:l13 - pinz\u00F3n castillo damaris azucena 1188926\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|solutionrelative:l13 - pinz\u00F3n castillo damaris azucena 1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|c:\\users\\damar\\onedrive\\documentos\\github\\lab-1\\damaris\\lab 13\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|solutionrelative:l13 - pinz\u00F3n castillo damaris azucena 1188926\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|c:\\users\\damar\\onedrive\\documentos\\github\\lab-1\\damaris\\lab 13\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|solutionrelative:l13 - pinz\u00F3n castillo damaris azucena 1188926\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAA5E80-474F-4DC4-9A15-68CBA26B779B}|L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926.csproj|C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\l13 - pinz\u00F3n castillo damaris azucena 1188926\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\MASCOTA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T14:05:09.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T14:05:09.627Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\PRODUCTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T14:03:43.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T14:03:43.862Z"
             },
             {
               "$type": "Document",
@@ -68,12 +66,11 @@
               "RelativeToolTip": "L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\VEHICULO.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T14:02:15.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T14:02:15.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PERSONA.cs",
               "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\PERSONA.cs",
               "RelativeDocumentMoniker": "L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\PERSONA.cs",
@@ -86,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\damar\\OneDrive\\Documentos\\GitHub\\Lab-1\\damaris\\lab 13\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\Program.cs",
               "RelativeDocumentMoniker": "L13 - PINZ\u00D3N CASTILLO DAMARIS AZUCENA 1188926\\Program.cs",

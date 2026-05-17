@@ -10,27 +10,7 @@ namespace L15___PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
     {
         static void Main(string[] args)
         {
-            //3. SEGUIMIENTO PASO A PASO (DEBUGGING)
-            Console.WriteLine();
-            Console.WriteLine(" - EJERCICIO # 03 - ");
-            Console.WriteLine(" SEGUIMIENTO PASO A PASO (DEBUGGING) ");
-
-            double capital = 1000;
-            double tasa = 0.05;
-            double intereses = 0;
-            double abonos = 0;
-            for (int mes = 1; mes <= 12 && capital > 0; mes++)
-            {
-                //calculo intereses del mes
-                intereses = capital * tasa;
-
-                //abono realizado cada mes
-                abonos = 100 + (mes * 10);
-
-                //actualizar el capital
-                capital = capital + intereses - abonos;
-            }
-
+           
 
             // PRUEBAS DE CALIDAD - SERIE 02
             //Pruebas de calidad testing 
@@ -87,6 +67,27 @@ namespace L15___PINZON_CASTILLO_DAMARIS_AZUCENA_1188926
                 Depositar(ref saldoActual, montoDepositar);
                 Console.WriteLine("El saldo final es: " + saldoActual);
             }
+
+
+
+            //3. SEGUIMIENTO PASO A PASO (DEBUGGING)
+
+            double capital = 1000;
+            double tasa = 0.05;
+            double intereses = 0;
+            double abonos = 0;
+            for (int mes = 1; mes <= 12 && capital > 0; mes++)
+            {
+                //calculo intereses del mes
+                intereses = capital * tasa;
+
+                //abono realizado cada mes
+                abonos = 100 + (mes * 10);
+
+                //actualizar el capital
+                capital = capital + intereses - abonos;
+            }
+
         }
 
 

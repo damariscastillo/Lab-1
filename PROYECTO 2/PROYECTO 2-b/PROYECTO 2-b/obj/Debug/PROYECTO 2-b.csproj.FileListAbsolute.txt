@@ -5,3 +5,10 @@ C:\Users\damar\Downloads\pruebsd\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-
 C:\Users\damar\Downloads\pruebsd\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.csproj.CoreCompileInputs.cache
 C:\Users\damar\Downloads\pruebsd\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.exe
 C:\Users\damar\Downloads\pruebsd\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\bin\Debug\PROYECTO 2-b.exe.config
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\bin\Debug\PROYECTO 2-b.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\bin\Debug\PROYECTO 2-b.pdb
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.exe
+C:\Users\damar\OneDrive\Documentos\GitHub\Lab-1\PROYECTO 2\PROYECTO 2-b\PROYECTO 2-b\obj\Debug\PROYECTO 2-b.pdb

@@ -15,10 +15,10 @@ namespace PROYECTO_2_b
         private bool estaOcupada;
 
         
-        public string Siembra
+        public string Siembra //propiedad
         {
-            get { return siembra; }
-            set { siembra  = value; }
+            get { return siembra; } //metodo
+            set { siembra  = value; } //metodo
         }
         public int MesesCrecer
         {
